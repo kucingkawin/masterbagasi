@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178563931616",
+    "firebase_url": "https://masterbagasi.firebaseio.com",
+    "project_id": "masterbagasi",
+    "storage_bucket": "masterbagasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178563931616:android:d9048461e816d51fd95f85",
+        "android_client_info": {
+          "package_name": "com.spaceidea.masterbagasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178563931616-vv6qqurcmtu3a8ietmtvg1h9dubdkbu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spaceidea.masterbagasi",
+            "certificate_hash": "507dc9abb4ed57adc6cec98a4cf06096ed87664a"
+          }
+        },
+        {
+          "client_id": "178563931616-6euiv8btm0u7fscm29alvim5o7nd789k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuQkAkS30ItOuJS-lf-zBU5_usQMrYaLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178563931616-6euiv8btm0u7fscm29alvim5o7nd789k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
